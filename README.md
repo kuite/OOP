@@ -1,4 +1,4 @@
-# CS_OOP
+# OOP
 Programowanie obiektowe w C#
 
 Otwieraj pliki z rozszerzeniem .sln
